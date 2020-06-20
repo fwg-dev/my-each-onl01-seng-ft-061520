@@ -7,4 +7,3 @@ def my_each(collections) # put argument(s) here
 end
 collections
 end
-end
